@@ -1,4 +1,4 @@
-## Hi, I', Linus
+## Hi, I'm Linus
 
 I am currently doing my bachelors in Information Systems Management at the Technical University of Berlin.
 
