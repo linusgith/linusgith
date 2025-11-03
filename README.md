@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I', Linus
+
+I am currently doing my bachelors in Information Systems Management at the Technical University of Berlin.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=linusgith)](https://git.io/streak-stats)
 
 <!--
 **linusgith/linusgith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
